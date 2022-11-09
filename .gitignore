@@ -8,6 +8,8 @@ __pycache__/
 .idea/
 
 # ignore tensorflow logs and models
+models/final_aerial_segmentation_2022-03-30 14_31_05_302548.hdf5
+models/final_aerial_segmentation_2022-03-31 13_28_03_079442.hdf5
 models/weights-improvement-*
 logs
 
