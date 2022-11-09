@@ -3,8 +3,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# ignore local cache files
 .DS_Store
 .idea/
+
+# ignore tensorflow logs and models
+models/weights-improvement-*
+logs
+
+# ignore dataset
+semantic-segmentation-dataset
 
 # C extensions
 *.so
