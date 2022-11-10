@@ -29,11 +29,14 @@ U-Net consists of two critical paths: 1) Contraction 2) Expansion
 Filters in the expansive path contain high level spatial and contextual feature information.
 Detailed fine-grained structural information contained in the contraction path.
 
-<img src="images/unet-architecture.png" alt="unet-architecture" width="500"/>
+<p align="center">
+    <img src="images/unet-architecture.png" alt="unet-architecture" width="500"/>
+</p>
 
 ## Prediction
 
 Below is a visualisation of ten outputs portraying the patched aerial image of Dubai, the ground truth mask and the U-Net segmentation prediction.
 
-
-<img src="images/predictions.png" alt="model predictions" width="400"/>
+<p align="center">
+    <img src="images/predictions.png" alt="model predictions" width="400"/>
+</p>
