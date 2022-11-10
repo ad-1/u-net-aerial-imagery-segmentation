@@ -1,6 +1,6 @@
 from keras.models import Model
 from keras.layers import Input, Conv2D, MaxPooling2D, concatenate, Conv2DTranspose, Dropout
-from keras.layers.experimental.preprocessing import Rescaling
+from keras.layers import Rescaling
 
 
 def get_unet_model(img_height, img_width, img_channels, n_classes):
