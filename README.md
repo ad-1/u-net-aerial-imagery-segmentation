@@ -7,7 +7,9 @@ https://medium.com/@andrewdaviesul/membership
 
 The project aims to provide an implementation of a Tensorflow U-Net model for the semantic segmentation of aerial imagery.
 
-<img src="https://images.unsplash.com/flagged/photo-1559717865-a99cac1c95d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80" alt="sample aerial image" width="500"/>
+<p align="center">
+    <img src="https://images.unsplash.com/flagged/photo-1559717865-a99cac1c95d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80" alt="sample aerial image" width="500"/>
+</p>
 
 Photo by ZQ Lee on Unsplash
 
